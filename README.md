@@ -1,2 +1,2 @@
 # go-fish
-Play Go Fish against a computer bot
+Play Go Fish against a computer
